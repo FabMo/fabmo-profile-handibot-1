@@ -1,2 +1,2 @@
 # fabmo-profile-handibot
-FabMo machine profile for the Handibot.
+FabMo machine profile for the Handibot - 1.
