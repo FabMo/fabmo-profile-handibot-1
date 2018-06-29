@@ -15,10 +15,8 @@ $current_tool := 0        ' Weakly initializes permanent tool variable if not al
   $current_tool = &Tool
 
   
-  PAUSE "If Tool Change Needed -- Quit Here, else Resume (Manual Tool Change Not Yet Supported)"
-  END
+  FAIL "If Tool Change Needed -- Quit Here, else Resume (Manual Tool Change Not Yet Supported)"
 
 ' --- Subroutines ---
 NoChange:
   END
-
