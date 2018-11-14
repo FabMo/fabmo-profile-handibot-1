@@ -18,7 +18,7 @@ $y_backoff := .075
 $z_backoff := .075
 
 &homing_input = 3      ' Input # for prox switch; ' Later also using system variable %(53) to read input; ... a temporary kludge
-&x_search = 8.0
+&x_search = -8.0
 &x_search_speed = 2.5
 &x_slow_search_speed = .25
 &y_search = -10.0
